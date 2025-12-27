@@ -31,7 +31,7 @@ The bot follows a precise 14-point coordinate system to navigate the YouTube Stu
 
 
 ## 🔗 Demo & Repository  
-- GitHub: [https://github.com/Foam-01/pos-inventory-system](https://github.com/Foam-01/RPA---Robotic-Process-Automation-/edit/main/README.md)
+- GitHub: [[https://github.com/Foam-01/pos-inventory-system](https://github.com/Foam-01/RPA---Robotic-Process-Automation-/edit/main/README.md)](https://github.com/Foam-01/RPA---Robotic-Process-Automation-?tab=readme-ov-file)
 
 🏁 Getting Started
 1. Prerequisites
