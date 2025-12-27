@@ -12,7 +12,7 @@ Environment: Windows OS
 
 Browser: Google Chrome (Optimized for YouTube Studio)
 
-🚀 Features
+🚀 Key Features
 ⚡ Lightning Fast Upload: Automated file selection and navigation process.
 
 📂 Smart Directory Access: Auto-types "Downloads" path to locate video files accurately in Windows Explorer.
@@ -21,25 +21,22 @@ Browser: Google Chrome (Optimized for YouTube Studio)
 
 🕒 Precision Scheduling: Automated scheduling set for 18:00 using Ctrl+A shortcuts to ensure time entry accuracy.
 
-🖥️ Workflow & Coordinates
+🖥️ Screenshots & Workflow
 The bot follows a precise 14-point coordinate system to navigate the YouTube Studio UI:
 
-1. Create ➔ 2. Upload ➔ 3. Select File ➔ 4. Path Entry ➔ 5. Confirm Path ➔ 6. Triple Click File ➔ 7. Audience Setting ➔ ... and more until Publish.
+1. Create ➔ 2. Upload ➔ 3. Select File ➔ 4. Path Entry ➔ 5. Confirm Path ➔ 6. Triple Click File ➔ 7. Audience Setting ➔ ... until Publish
 
-## 🖥️ Screenshots
-<img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/51d4b9ed-a193-4571-afb2-1377e3e929c7" />
-
-
-## 🔗 Demo & Repository  
-- GitHub: [[https://github.com/Foam-01/pos-inventory-system](https://github.com/Foam-01/RPA---Robotic-Process-Automation-/edit/main/README.md)](https://github.com/Foam-01/RPA---Robotic-Process-Automation-?tab=readme-ov-file)
+<img width="100%" alt="YouTube Studio Automation Workflow" src="https://github.com/user-attachments/assets/51d4b9ed-a193-4571-afb2-1377e3e929c7" />
 
 🏁 Getting Started
 1. Prerequisites
-Display Scaling: Must be set to 100%.
+Before running the bot, ensure your system is configured as follows:
 
-Keyboard Language: Must be set to English (US).
+Display Scaling: Set to 100%.
 
-Browser: Open YouTube Studio in Full Screen mode.
+Keyboard Language: Set to English (US).
+
+Browser Mode: Open YouTube Studio in Full Screen.
 
 2. Installation
 Bash
@@ -50,7 +47,7 @@ git clone https://github.com/Foam-01/RPA---Robotic-Process-Automation-.git
 # Navigate to the project directory
 cd RPA---Robotic-Process-Automation-
 
-# Install the required library
+# Install required library
 pip install pyautogui
 3. Usage
 Bash
@@ -59,7 +56,9 @@ Bash
 python bot.py
 Note: You will have 5 seconds to switch to your browser window before the automation begins.
 
-👤 Author
-Foam-01 - GitHub Profile
+🔗 Links & Author
+GitHub Repository: https://github.com/Foam-01/RPA---Robotic-Process-Automation-
+
+👤 Author: Foam-01
 
 https://github.com/user-attachments/assets/6c119a98-eea2-4c86-9e64-e05475bb4036
