@@ -27,6 +27,7 @@ The bot follows a precise 14-point coordinate system to navigate the YouTube Stu
 1. Create ➔ 2. Upload ➔ 3. Select File ➔ 4. Path Entry ➔ 5. Confirm Path ➔ 6. Triple Click File ➔ 7. Audience Setting ➔ ... until Publish
 
 <img width="100%" alt="YouTube Studio Automation Workflow" src="https://github.com/user-attachments/assets/51d4b9ed-a193-4571-afb2-1377e3e929c7" />
+<img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/3d0e9b3d-b90b-4436-b143-e4decb84966a" />
 
 🏁 Getting Started
 1. Prerequisites
