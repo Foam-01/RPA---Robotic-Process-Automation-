@@ -1,5 +1,7 @@
 🤖 YouTube Automation Upload Bot (RPA)
-An automated RPA tool designed to streamline the YouTube video upload process. Built with Python and PyAutoGUI to simulate human interactions, saving time and ensuring precision in scheduling.
+An automated RPA tool designed to streamline the YouTube video upload process.
+
+Built with Python and PyAutoGUI to simulate human interactions, saving time and ensuring precision in scheduling.
 
 🔧 Tech Stack
 Language: Python 3.x
@@ -10,29 +12,30 @@ Environment: Windows OS
 
 Browser: Google Chrome (Optimized for YouTube Studio)
 
-🚀 Key Features
-⚡ Lightning Fast Upload: Automated file selection and navigation.
+🚀 Features
+⚡ Lightning Fast Upload: Automated file selection and navigation process.
 
-📂 Smart Directory Access: Auto-types "Downloads" path to locate video files accurately.
+📂 Smart Directory Access: Auto-types "Downloads" path to locate video files accurately in Windows Explorer.
 
-⚙️ Detail Configuration: Automatically selects "Not made for kids" and skips through setup tabs.
+⚙️ Auto-Configuration: Automatically selects "Not made for kids" and handles setup tabs.
 
-🕒 Scheduled Publishing: Automated scheduling specifically set for 18:00 with text-clearing shortcuts (Ctrl+A).
+🕒 Precision Scheduling: Automated scheduling set for 18:00 using Ctrl+A shortcuts to ensure time entry accuracy.
 
 🖥️ Workflow & Coordinates
-The bot follows a precise 14-point coordinate system to navigate the UI:
+The bot follows a precise 14-point coordinate system to navigate the YouTube Studio UI:
 
-1. Create Button ➔ 2. Upload Menu ➔ 3. Select File ➔ 4. Path Entry ➔ 5. Confirm Path ➔ 6. File Selection (Triple Click) ➔ 7. Audience Setting ➔ ... and more until Publish.
+1. Create ➔ 2. Upload ➔ 3. Select File ➔ 4. Path Entry ➔ 5. Confirm Path ➔ 6. Triple Click File ➔ 7. Audience Setting ➔ ... and more until Publish.
+
+🔗 Repository
+GitHub: https://github.com/Foam-01/RPA---Robotic-Process-Automation-
 
 🏁 Getting Started
 1. Prerequisites
-Before running the bot, ensure your system is configured as follows:
+Display Scaling: Must be set to 100%.
 
-Display Scaling: Set to 100%.
+Keyboard Language: Must be set to English (US).
 
-Keyboard Language: Set to English (US).
-
-Browser Mode: Open YouTube Studio in Full Screen.
+Browser: Open YouTube Studio in Full Screen mode.
 
 2. Installation
 Bash
@@ -43,20 +46,14 @@ git clone https://github.com/Foam-01/RPA---Robotic-Process-Automation-.git
 # Navigate to the project directory
 cd RPA---Robotic-Process-Automation-
 
-# Install required library
+# Install the required library
 pip install pyautogui
 3. Usage
-Open Google Chrome and navigate to YouTube Studio.
-
-Run the automation script:
-
 Bash
 
+# Run the automation script
 python bot.py
-You have 5 seconds to switch to the browser window before the bot starts.
-
-🔗 Project Links
-Repository: https://github.com/Foam-01/RPA---Robotic-Process-Automation-
+Note: You will have 5 seconds to switch to your browser window before the automation begins.
 
 👤 Author
 Foam-01 - GitHub Profile
