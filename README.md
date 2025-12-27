@@ -26,8 +26,12 @@ The bot follows a precise 14-point coordinate system to navigate the YouTube Stu
 
 1. Create ➔ 2. Upload ➔ 3. Select File ➔ 4. Path Entry ➔ 5. Confirm Path ➔ 6. Triple Click File ➔ 7. Audience Setting ➔ ... and more until Publish.
 
-🔗 Repository
-GitHub: https://github.com/Foam-01/RPA---Robotic-Process-Automation-
+## 🖥️ Screenshots
+<img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/51d4b9ed-a193-4571-afb2-1377e3e929c7" />
+
+
+## 🔗 Demo & Repository  
+- GitHub: [https://github.com/Foam-01/pos-inventory-system](https://github.com/Foam-01/RPA---Robotic-Process-Automation-/edit/main/README.md)
 
 🏁 Getting Started
 1. Prerequisites
@@ -57,3 +61,4 @@ Note: You will have 5 seconds to switch to your browser window before the automa
 
 👤 Author
 Foam-01 - GitHub Profile
+
